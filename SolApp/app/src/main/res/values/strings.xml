@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SolApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">---</string>
+    <string name="temperatures">-</string>
+    <string name="owner">Owner: </string>
+    <string name="country">Country: </string>
+    <string name="dataUpdate">DataUpdate: </string>
+    <string name="forecastDate">Data da previsão: </string>
+    <string name="tempMin">Temperatura Mínima: </string>
+    <string name="tempMax">Temperatura Máxima: </string>
+    <string name="weatherState">Estado do tempo: </string>
+    <string name="windDir">Direção do vento: </string>
+    <string name="windSpeed">Velocidade do vento: </string>
+    <string name="loc">Localização: </string>
+    <string name="botaoMostrar">Mostrar</string>
+</resources>
